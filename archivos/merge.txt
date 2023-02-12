@@ -1,3 +1,6 @@
 Ruben Urías Salas Higuita
 27
 Poder manejar los diferentes temas que se van a ver en la asignatura para poder aplicarlos en un futuro cercano
+Dado que la caperta no esta vacía se puede realizar el commit y subir
+
+Porque se pueden generar conflictos en las diferentes versiones del trabajo 
